@@ -1,0 +1,144 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.5;
+	color: #444;
+	font-size: 100%;
+	background-color: #eae8e8;
+}
+
+.container{
+	max-width: 1128px;
+	margin: 0 auto;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    margin-bottom: 0;
+    margin-top: 0;
+    
+}
+
+nav{
+	width: 840px;
+	float: right;
+}
+nav ul{
+	float: right;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+
+nav ul{
+	float: right;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+
+nav li{
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+nav li a{
+	color: rgb(0, 0, 0);
+    font-family: 'Snell Roundhand', sans-serif;
+}   
+
+section{
+    background-color: rgb(35, 34, 37);
+    max-width: 1128px;
+    display: inline-block;
+}
+
+
+
+h1.cab{
+	float: left;
+	padding-left: 30px;
+	padding-top: 10px;
+    font-family: 'Snell Roundhand', sans-serif;
+    color: rgb(0, 0, 0);
+}
+p.footer{
+    font-family: 'Snell Roundhand', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+h2 {
+	font-size: 25px;
+    font-family: 'Snell Roundhand';
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    color: #ffffff;
+
+}
+
+
+p{
+	font-size: 20px;  
+	text-align: justify;
+    font-family: 'Apple Chancery';
+    padding: 15px;
+    color: #ffffff;
+}
+
+article{	
+	width: 563px;
+    height: 1320px;
+	float: left;
+	margin-right: 0px;
+    margin: 0;
+}
+
+div.center{
+    width: 563px;
+    height: 640px;
+    padding-bottom: 40px;
+    
+    
+}
+.imagens{
+    width: 480px;
+    height: 640px;
+    padding: 10px;
+
+}
+
+.carne{
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    border: 0;
+    margin-top: 38px;
+
+}
+
+.musica{
+    width: 480px;
+    height: 580px;
+    padding: 10px;
+    padding-right: 10;
+    float: right;
+}
+
+div.lista{
+    max-width: 1128px;
+    height: 400px;
+    display: inline;
+}
+a.link2{
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+section.sec{
+    max-width: 1128px;
+    height: 360px;
+}
+
